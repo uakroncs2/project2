@@ -65,7 +65,7 @@ public:
 
  * [50%] Your program must pass all test cases
 
- * [10%] *You must use recursion for everything, no loops allowed
+ * [10%] You must use recursion for everything, no loops allowed
 
  * [10%] You must document all functions in your code (you don't need to go crazy, just document what you are doing)
 
