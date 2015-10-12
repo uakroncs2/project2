@@ -151,6 +151,7 @@ int main() {
   std::vector<std::string> t34 = fill_vector("[33][20][10][/][/][30][/][/][42][41][/][/][44][/][50][/][/]");
   print_serialized(t34);
   assert(test_vector_equal(a1s9, t34));
+  delete a1;
   std::cout << "  OK." << std::endl;
   std::cout << "Test 3 Passed." << std::endl;
 
@@ -185,7 +186,7 @@ int main() {
   std::vector<std::string> t41 = fill_vector("[Deeter][/][rules!!][/][/]");
   print_serialized(t41);
   assert(test_vector_equal(avlsv, t41));
-
+  delete avls;
   std::cout << "Test 4 Passed." << std::endl;
   std::cout << "\nAll Tests Passed." << std::endl;
 }
