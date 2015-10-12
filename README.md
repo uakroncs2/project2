@@ -56,7 +56,7 @@ public:
   * There will never be duplicate values inserted into the tree
   * You may keep track of parent nodes within the Nodes themselves or send pointers to pointers as arguments
   * You MUST use recursion for everything!  YOU MAY NOT USE FOR OR WHILE LOOPS FOR ANY REASON!
-  * use valgrind to check for mamory leaks, points will be deducted if any are present
+  * use valgrind to check for memory leaks, points will be deducted if any are present
   * All test cases must pass to get a passing grade
 
 ## Rubric
@@ -65,7 +65,7 @@ public:
 
  * [50%] Your program must pass all test cases
 
-  *[10%] You must use recursion for everything, no loops allowed
+ * [10%] *You must use recursion for everything, no loops allowed
 
  * [10%] You must document all functions in your code (you don't need to go crazy, just document what you are doing)
 
