@@ -21,7 +21,7 @@ You must write the AVL.cpp file that implements the test_string function found i
 
 Here is the AVL.hpp file I have included.  You MUST implement these functions without changing the name or arguments.
 
-```
+```c++
 #ifndef AVL_HPP
 #define AVL_HPP
 
