@@ -16,7 +16,7 @@ public:
 
   // remove a node from the AVL with a specific data value
   // you MUST use the in order predecessor to replace the removed node
-  void remove(const T& t) { find_and_remove(t, root, &root); }
+  void remove(const T& t);
 
   // return a std::vector<std::string> of the serialized AVL tree
   // you WILL need to have template specialization for AVL<int> and AVL<std::string>

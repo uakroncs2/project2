@@ -15,7 +15,7 @@ I will supply you with these files:
  * test_avl.cpp - This file contains all of the test cases and will be what you must compile and run to test your code.
  * AVL.hpp - This contains the header file for an AVL object. You must implement this object in order for the test cases to pass.
 
-You must write the AVL.cpp file that implements the test_string function found in the AVL.hpp file (you may implement in the hpp file).
+You must implement functions found in the AVL.hpp file (you must implement IN the hpp file due to templating).
 
 ## Functions
 
